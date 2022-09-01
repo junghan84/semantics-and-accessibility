@@ -24,8 +24,10 @@ THEN I find a concise, descriptive title
 
 screenshot for generate HTML webpages :
 
-![The finished refactored website Screenshot] 
-[link](assets/images/Horiseon-Refactored-Website.png)
+![Web Screenshot](assets/images/Horiseon-Refactored-Website.png)
 
 Below is the link to the reafctored website :
+Website URL: https://junghan84.github.io/semantics-and-accessibility/
 
+Repository URL: 
+https://github.com/junghan84/semantics-and-accessibility
